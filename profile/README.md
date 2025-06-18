@@ -20,46 +20,6 @@ We design minimal, strategic user experiences that convert — backed by reliabl
 
 ---
 
-## 🧩 Selected Projects
-
-Here’s a glimpse of some recent collaborations:
-
-### 🔹 Reliance-e Tours Redesign  
-**Tech:** WordPress, Figma, Custom API Integration  
-A full design and development revamp, enhancing user experience and streamlining tour booking workflows.
-
-### 🔹 Cirqula  
-**Tech:** WordPress, Figma, Custom API Integration  
-A modern redesign that elevated brand identity and improved backend content management.
-
-### 🔹 Houston Lawn Pros  
-**Tech:** WordPress, Figma, Custom API Integration  
-Built for speed and conversion — mobile-first design with seamless service request flow.
-
-### 🔹 Patagonia Tours  
-**Tech:** WordPress, Adobe XD  
-Crafted an intuitive layout for travel exploration and reservations with responsive design and scalable architecture.
-
----
-
-## 🧪 Featured Product: GangUp
-
-**GangUP** is a smart commuter-matching app built for university students in Bangladesh.  
-It helps users form verified commuting groups (“Gangs”) based on:
-
-- 🗺️ Route & Location  
-- ⏰ Time of Travel  
-- 🏫 University Affiliation  
-- 🚻 Gender Preferences  
-
-### 📈 Impact at a Glance
-- ⏱️ Built and launched in **just 100 hours**  
-- 👥 3,500+ verified users onboarded  
-- 👨‍👩‍👧‍👦 500+ commuting groups created  
-- 🛡️ Enhanced safety, affordability, and coordination
-
----
-
 ## 📚 Resources & Links
 
 Explore our ecosystem of digital assets, insights, and tools to understand how we build and support scalable digital solutions.
